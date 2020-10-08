@@ -1,4 +1,5 @@
 ### 个人简介
+
 <table border="0">
   <tr>
     <td width="75%">
@@ -9,10 +10,11 @@
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
     </td>
     <td width="25%">
-      <img src="./test.jpg" width="100%">      % 插入证件照代码
+      <img src="/test.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
+
 ### 研究方向
 ### 代表性著作
 
